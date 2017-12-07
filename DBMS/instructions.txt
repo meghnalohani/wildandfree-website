@@ -1,0 +1,16 @@
+step 1:start xampp
+
+step 2:Change the password of mysql in the code files. (Right now it is "system")
+
+step 3:run the file create.php to create databse and tables.
+http://localhost/DBMS/create.php
+
+step 4: extract the files from the folder DBMS and save it in htdocs. (save the entire folder in htdocs under xampp)
+
+Step 5: run the following link in browser.
+file:///C:/xampp/htdocs/DBMS/home2.html
+
+Note :
+
+Requirements are MySQL with the database.
+

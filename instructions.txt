@@ -1,0 +1,12 @@
+step 1: extract the files from the folder DBMS and save it in htdocs. (save the entire folder in htdocs under xampp)
+
+Step 2: Change the password of mysql in the code files. (Right now it is "system")
+
+Step 3: Start apache on xampp.
+
+Step 4:Open file home2.html in any browser.
+ 
+Note :
+
+Requirements are MySQL with the database.
+
